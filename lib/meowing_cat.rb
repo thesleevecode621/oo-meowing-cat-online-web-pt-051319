@@ -6,5 +6,7 @@ class Cat
   end
 end
 
-mar
+maru = Cat.new
+
+puts maru.meow
 
