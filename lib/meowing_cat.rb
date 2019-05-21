@@ -1,1 +1,2 @@
-## code your solution here. 
+attr_reader
+attr_writer
