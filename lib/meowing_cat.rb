@@ -1,9 +1,10 @@
 
-attr_accessor :name, :meow 
+
 
 class Cat 
   
   attr_accessor :name, :meow
+  def name 
   
 end 
 
